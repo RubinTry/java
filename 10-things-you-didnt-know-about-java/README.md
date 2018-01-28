@@ -1,4 +1,4 @@
-原文链接： [10 Things You Didn’t Know About Java](http://blog.jooq.org/2014/11/03/10-things-you-didnt-know-about-java/)，2014-11-03  
+﻿原文链接： [10 Things You Didn’t Know About Java](http://blog.jooq.org/2014/11/03/10-things-you-didnt-know-about-java/)，2014-11-03  
 译文发在[ImportNew](http://www.importnew.com/)： <http://www.importnew.com/13859.html>，2014-12-21
 
 关于`Java`你可能不知道的10件事
@@ -223,7 +223,7 @@ Object o = true ? i : d; // NullPointerException!
 System.out.println(o);
 ```
 
-关于这一条的更多的信息可以在[这里](http://blog.jooq.org/2013/10/08/java-auto-unboxing-gotcha-beware/)找到。
+关于这一条的更多的信息可以在[这里](https://zhuanlan.zhihu.com/p/33376645)找到。
 
 ## 5. 你没有掌握复合赋值运算符
 
